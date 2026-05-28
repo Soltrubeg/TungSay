@@ -1,9 +1,9 @@
 [package]
 name = "tungsay"
-version = "0.6.7"
+version = "0.1.0"
 authors = ["Soltrubeg"]
 edition = "2024"
-description = "A cowsay CLI but instead of a cow, it's tung tung tung sahur"
+description = "A cowsay CLI but instead of a cow, it's tung tung tung sahur."
 readme = "README.md"
 repository = "https://github.com/Soltrubeg/TungSay"
 license = "MIT"
