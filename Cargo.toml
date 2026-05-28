@@ -1,6 +1,6 @@
 [package]
 name = "tungsay"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Soltrubeg"]
 edition = "2024"
 description = "A cowsay CLI but instead of a cow, it's tung tung tung sahur."
